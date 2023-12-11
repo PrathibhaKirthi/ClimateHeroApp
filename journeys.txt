@@ -1,0 +1,4 @@
+2023-12-01*Dublin*Cork*Electric Car*260.0*26.0
+2023-12-02*Dublin*Cork*Train*207.0*33.12
+2023-11-30*Home*Park*Bicycle*5.0*0.0
+2023-12-10*Dallas*Las Vegas*Train*666.0*106.56
